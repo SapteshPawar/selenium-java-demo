@@ -25,6 +25,3 @@ The goal of this project is to demonstrate:
 1. Clone the repository
 2. Open in IntelliJ
 3. Run test classes using TestNG
-
-## Notes
-This project is intentionally simple and interview-safe, focusing on automation fundamentals rather than advanced frameworks.
