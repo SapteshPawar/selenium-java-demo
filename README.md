@@ -30,4 +30,9 @@ https://www.saucedemo.com/
 3. Run test classes as TestNG tests
 
 ## 📸 Screenshots
-(Add screenshots here)
+* Eclipse Screenshot: <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/654d1dbd-4445-4a55-80db-9c01d1eb84d8" />
+* Test Scenario 1 (Empty Credentials): <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/3d5b6a94-b95e-4e8c-a2dd-bddc9f756b2d" />
+
+* Test Scenario 2 (Invalid Credentials):
+* Test Scenario 3 (Valid Credentials): 
+
