@@ -1,27 +1,24 @@
-# Selenium Automation Framework – Demo Project
+# Selenium Automation Framework – Demo Web App
 
-## Overview
-This is a **junior-level Selenium automation framework** built using Java and TestNG.
+This is a **junior-level Selenium automation framework** built using Java and TestNG.  
+The goal is to demonstrate understanding of automation basics, Page Object Model,
+explicit waits, and clean test structure.
 
-The goal of this project is to demonstrate:
-- Selenium WebDriver basics
-- Page Object Model (POM)
-- TestNG test structure
-- Proper waits to avoid flaky tests
-- Clean and readable automation code
-
-## Tech Stack
+## 🔧 Tech Stack
 - Java
 - Selenium WebDriver
 - TestNG
 - Maven
 - Page Object Model
-- GitHub
 
-## Test Scenarios
-- Valid login using SauceDemo
+## ✅ Test Scenarios
+- Valid login
+- Invalid login
 
-## How to Run
-1. Clone the repository
-2. Open in IntelliJ
-3. Run test classes using TestNG
+## 🌐 Demo Application
+https://www.saucedemo.com/
+
+## 🧪 How to Run
+1. Import project into Eclipse
+2. Right click on test class
+3. Run as TestNG Test
