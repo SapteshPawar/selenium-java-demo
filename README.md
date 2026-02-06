@@ -2,7 +2,7 @@
 
 This is a **junior-level Selenium automation framework** built using Java and TestNG.  
 The goal is to demonstrate understanding of automation basics, Page Object Model,
-explicit waits, and clean test structure.
+explicit waits and clean test structure.
 
 ## 🔧 Tech Stack
 - Java
