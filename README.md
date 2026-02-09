@@ -4,6 +4,17 @@
 This is a **junior-level Selenium automation framework** built using Java and TestNG.  
 The goal is to demonstrate understanding of automation basics, Page Object Model, waits, and clean test structure.
 
+## 🎯 Why This Project
+This project was created as a learning and demonstration framework for junior QA and automation roles.
+It focuses on writing stable, readable, and maintainable Selenium tests rather than advanced tooling.
+
+## 💬 What I Learned
+- Setting up Selenium with Maven and TestNG
+- Implementing Page Object Model
+- Using explicit waits to reduce flaky tests
+- Structuring automation code for maintainability
+- Using Git and GitHub for version control
+
 ## Tech Stack
 - Java
 - Selenium WebDriver
