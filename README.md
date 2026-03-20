@@ -42,22 +42,22 @@ selenium-demo-framework
 
 ---
 
-## 🧪 Test Scenario
+## Test Scenario
 
-### ✅ Login Test
+### Login Test
 - Enter valid username and password
 - Click login button
 - Verify user is navigated to inventory page
 
 ---
 
-## 🌐 Test Website
+## Test Website
 This project uses the SauceDemo website for testing:
 https://www.saucedemo.com/
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. Clone the repository: git clone https://github.com/YourUsername/selenium-demo-framework.git
 2. Import as a Maven Project in Eclipse
