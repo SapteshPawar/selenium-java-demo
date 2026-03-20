@@ -66,7 +66,7 @@ https://www.saucedemo.com/
 
 ---
 
-## 💬 What I Learned
+## What I Learned
 - Setting up Selenium with Maven and TestNG
 - Implementing Page Object Model (POM)
 - Using explicit waits to handle dynamic elements
@@ -76,13 +76,13 @@ https://www.saucedemo.com/
 
 ---
 
-## 🎯 Why This Project
+## Why This Project
 This project focuses on **Selenium fundamentals and clean automation practices** rather than complex frameworks.  
 It demonstrates the ability to write **stable, readable, and maintainable test scripts**, which is essential for junior QA roles.
 
 ---
 
-## 👤 Author
+## Author
 Saptesh Pawar
 
 ---
