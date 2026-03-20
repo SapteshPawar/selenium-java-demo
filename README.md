@@ -2,19 +2,18 @@
 
 ## Project Overview
 This is a **junior-level Selenium automation framework** built using Java and TestNG.  
-The project focuses on automating basic web application functionality such as login and validation.
+The project focuses on automating login functionality and validating user behaviour on a demo web application.
 
-The goal is to demonstrate understanding of **automation fundamentals**, including Page Object Model, explicit waits, and clean test structure.
+It demonstrates core automation concepts such as **Page Object Model (POM), explicit waits, assertions, and clean test structure**.
 
 ---
 
 ## Features
-- Login automation using valid credentials
-- Basic validation using assertions
+- Login automation (valid and invalid scenarios)
 - Page Object Model (POM) implementation
 - Explicit waits for handling dynamic elements
-- Clean and simple framework structure
-- Easy to understand and maintain code
+- Positive and negative test cases
+- Clean and maintainable code structure
 
 ---
 
@@ -23,7 +22,6 @@ The goal is to demonstrate understanding of **automation fundamentals**, includi
 - Selenium WebDriver
 - TestNG
 - Maven
-- Page Object Model (POM)
 
 ---
 
@@ -42,48 +40,52 @@ selenium-demo-framework
 
 ---
 
-## Test Scenario
+## Test Scenarios
 
-### Login Test
-- Enter valid username and password
-- Click login button
+### Positive Scenario
+- Login with valid credentials
 - Verify user is navigated to inventory page
+
+### Negative Scenario
+- Login with invalid credentials
+- Validate error message is displayed
 
 ---
 
 ## Test Website
-This project uses the SauceDemo website for testing:
 https://www.saucedemo.com/
 
 ---
 
-## How to Run the Project
+## How to Run
 
-1. Clone the repository: git clone https://github.com/SapteshPawar/selenium-java-demo
-2. Import as a Maven Project in Eclipse
-3. Run test: Right Click → Test Class → Run As → TestNG Test
+1. Clone the repository: git clone https://github.com/SapteshPawar/selenium-java-demo.git
+2. Open in Eclipse as Maven Project
+3. Run tests: Right Click → Test Class → Run As → TestNG Test
+
 
 ---
 
-## What I Learned
+## 💬 What I Learned
 - Setting up Selenium with Maven and TestNG
 - Implementing Page Object Model (POM)
-- Writing basic automated test cases
-- Using explicit waits for stability
-- Structuring automation code cleanly
+- Using explicit waits to handle dynamic elements
+- Writing positive and negative test cases
+- Structuring clean and maintainable automation code
 - Using Git and GitHub for version control
 
 ---
 
-## Why This Project
-This project focuses on **core Selenium fundamentals** rather than advanced frameworks.  
-It demonstrates the ability to write **clean, readable, and maintainable automation tests**, which is essential for junior QA roles.
+## 🎯 Why This Project
+This project focuses on **Selenium fundamentals and clean automation practices** rather than complex frameworks.  
+It demonstrates the ability to write **stable, readable, and maintainable test scripts**, which is essential for junior QA roles.
 
 ---
 
-## Author
+## 👤 Author
 Saptesh Pawar
 
+---
 
 ## Screenshots
 Eclipse Screenshot: <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/654d1dbd-4445-4a55-80db-9c01d1eb84d8" />
