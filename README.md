@@ -59,7 +59,7 @@ https://www.saucedemo.com/
 
 ## How to Run the Project
 
-1. Clone the repository: git clone https://github.com/SapteshPawar/selenium-demo-framework.git
+1. Clone the repository: git clone https://github.com/SapteshPawar/selenium-java-demo
 2. Import as a Maven Project in Eclipse
 3. Run test: Right Click → Test Class → Run As → TestNG Test
 
